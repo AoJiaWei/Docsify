@@ -1,6 +1,6 @@
-# Welcome
+# Welcome.欢迎
 
-IKUN_3058的Docsify网页
+IKUN_3058的Docsify网页（Ctrl+F打开搜索）
 
 ### Docsify部署网页
 
@@ -30,14 +30,68 @@ Tips：使用GitHub新建库，并存储Docsify的文件，开启GitHub Pages功
 
 **C版：Android5.1**
 
-1.刷入TWRP：直接使用一键刷入脚本**（注：需要安装Fastboot驱动）**
+1.解BL锁：重启到Fastboot，使用脚本**（注：需要安装Fastboot驱动）**
 
-2.获取刷机包：在[萤火虫资源站](https://www.yhcres.top/)查找（推荐MIUI,Flyme）
+2.刷入TWRP：直接使用一键刷入脚本**（注：需要安装Fastboot驱动）**
 
-3.直接在TWRP刷入
+3.获取刷机包：在[萤火虫资源站](https://www.yhcres.top/)查找（推荐MIUI,Flyme）
 
-4.格式化内部储存分区
+4.直接在TWRP刷入
 
-5.重启
+5.格式化内部储存分区
+
+6.重启
 
 参考文献：https://www.mintimate.cn/2019/06/21/Y51/
+
+### 各类PE系统官网
+
+FirPE：https://firpe.cn/
+
+微PE：https://www.wepe.com.cn/
+
+Edgeless：https://home.edgeless.top/（低配版Win To Go）
+
+### Ventoy启动工具
+
+Ventoy可以引导多个U盘中的ISO文件，VHD虚拟磁盘文件等等，适合用作装系统等适用场景
+
+Ventoy官网：https://www.ventoy.net/
+
+Ventoy文档手册：https://www.ventoy.net/cn/doc_news.html
+
+![](https://www.ventoy.net/static/img/screen/screen_bios2.png)
+
+Ventoy 1.0.07 版本开始支持 Secure Boot (安全启动)
+
+理论上开启这个选项之后，不管BIOS里面的安全启动是开启的还是关闭的，都可以正常启动。
+
+当BIOS里的安全启动开启时，正常情况下首次启动会出现类似下面这样的界面
+
+![](https://www.ventoy.net/static/img/mokmanager.png)
+
+只需要向下面这样操作一遍即可
+
+![](https://www.ventoy.net/static/img/secure_key.gif)
+
+### 制作Windows To Go
+
+Windows To Go（缩写WTG）：是微软官方提供的一种 Windows 安装形式，可以把完整的 Windows 系统部署到U盘或者移动硬盘上，在任何可以引导 Windows 的设备中启动。
+
+当然，我们亲爱的砍刀部已经在2020年及以后的 Windows 版本中砍掉了这个功能，这个功能以后也不会得到什么更新。但这并不等于这个功能无法使用了
+
+WTG对于U盘的要求比较大，4K读写要求大，普通的闪存盘可能不足以支撑WTG，推荐使用移动硬盘或者移动固态U盘
+
+**制作方法**
+
+推荐使用Windows 的LTSC版本，预装软件较少占用空间比全量Windows少
+
+使用Rufus制作WTG
+
+Rufus官网：https://rufus.ie/zh/
+
+在软件中选择镜像，并选择Windows To Go安装，开始即可
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a2e1d7c67e5.png)
+
+注：WTG系统虽然可以在任何可引导外置设备上启动，但部分驱动不可通用

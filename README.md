@@ -95,3 +95,7 @@ Rufus官网：https://rufus.ie/zh/
 ![](https://free-img.400040.xyz/4/2025/08/18/68a2e1d7c67e5.png)
 
 注：WTG系统虽然可以在任何可引导外置设备上启动，但部分驱动不可通用
+
+### 作者：IKUN_3058
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a2e35aebb2b.jpg)

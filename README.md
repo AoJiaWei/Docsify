@@ -163,6 +163,20 @@ Windows 11轻松设置B站：https://www.bilibili.com/opus/904672369138729017
 
 官网：https://firpe.cn/page-196
 
+### 本地部署AI大模型
+
+所需工具：Ollama
+
+Ollama官网：https://ollama.com/
+
+Ollama所需命令：
+
+运行/安装大模型指令：`ollama run 模型名字`
+
+例如：`ollama run deepseek-r1:32b`
+
+查看本地已有模型：`ollama list`
+
 
 
 ### 作者：IKUN_3058

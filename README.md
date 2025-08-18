@@ -1,6 +1,6 @@
 # Welcome
 
-> IKUN_3058的Docsify网页（按下Ctrl+F打开浏览器搜索）
+IKUN_3058的Docsify网页
 
 ### Docsify部署网页
 

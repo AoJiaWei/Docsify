@@ -144,6 +144,27 @@ QuickLook微软商店下载地址：https://apps.microsoft.com/detail/9NV4BS3L1H
 
 Windows 11轻松设置B站：https://www.bilibili.com/opus/904672369138729017
 
+### DIY爱好者的必备工具合集
+
+![](https://www.tbtool.cn/rc_images/aboutimg.png)
+
+**快捷查看详细配置+一堆工具**
+
+官网：https://www.tbtool.cn/
+
+### Windows快捷重装软件：EasyRC
+
+**软件功能：**
+
+- 系统重装
+- 系统备份
+- 在线重装
+- 扩展工具
+
+官网：https://firpe.cn/page-196
+
+
+
 ### 作者：IKUN_3058
 
 ![](https://free-img.400040.xyz/4/2025/08/18/68a2e35aebb2b.jpg)

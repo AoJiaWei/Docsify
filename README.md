@@ -8,7 +8,7 @@ Docsify的官网：https://docsify.js.org/
 
 Tips：使用GitHub新建库，并存储Docsify的文件，开启GitHub Pages功能实现随时访问。也可以用Cloudflare Workers中的Pages功能
 
-所需工具：Typora（.md文件编辑工具）node.js（使用NPM安装Docsify到Windows实现本地编写）
+所需工具：Typora（Markdown文件编辑工具）Node.js（使用NPM安装Docsify到Windows实现本地编写）
 
 所需命令：
 
@@ -95,6 +95,54 @@ Rufus官网：https://rufus.ie/zh/
 ![](https://free-img.400040.xyz/4/2025/08/18/68a2e1d7c67e5.png)
 
 注：WTG系统虽然可以在任何可引导外置设备上启动，但部分驱动不可通用
+
+### Windows仿Mac工具
+
+1.仿MacOS的Dock与Finder：MyDockFinder
+
+官网地址：https://www.mydockfinder.com/
+
+Steam商店地址：https://store.steampowered.com/app/1787090/MyDockFinder/
+
+GitHub地址：https://github.com/gaxCat/Mydockfinder/releases
+
+软件展示图：
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a320cd878c1.png)
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a320ce0dd75.png)
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a320cc7398a.png)
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a320ccf131a.png)
+
+![神奇动画效果](https://free-img.400040.xyz/4/2025/08/18/68a31fe7c136c.png)
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a31fe8186d2.png)
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a31fe87af95.png)
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a31fe94bdef.png)
+
+2.空格键快速预览工具
+
+QuickLook微软商店下载地址：https://apps.microsoft.com/detail/9NV4BS3L1H4S?hl=zh&gl=CN&ocid=pdpshare
+
+安装成功后选中文件按下空格键快速预览
+
+支持视频、音乐、PDF、TXT等
+
+更多插件扩展下载：https://github.com/QL-Win/QuickLook/wiki/Available-Plugins
+
+下载插件后选中插件，按下空格键安装插件即可
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a322ce2b451.png)
+
+### Windows 11优化小工具
+
+![](https://free-img.400040.xyz/4/2025/08/18/68a3236e3f85a.png)
+
+Windows 11轻松设置B站：https://www.bilibili.com/opus/904672369138729017
 
 ### 作者：IKUN_3058
 

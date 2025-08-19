@@ -144,7 +144,7 @@ QuickLook微软商店下载地址：https://apps.microsoft.com/detail/9NV4BS3L1H
 
 Windows 11轻松设置B站：https://www.bilibili.com/opus/904672369138729017
 
-### DIY爱好者的必备工具合集
+### 图吧工具箱：DIY爱好者的必备工具合集
 
 ![](https://www.tbtool.cn/rc_images/aboutimg.png)
 

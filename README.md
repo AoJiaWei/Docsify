@@ -177,6 +177,86 @@ Ollama所需命令：
 
 查看本地已有模型：`ollama list`
 
+### 常用软件/网站
+
+[火绒](https://www.huorong.cn/)：简洁安全软件
+
+[GEEK](https://geekuninstaller.com/)：软件卸载工具
+
+![](https://geekuninstaller.com/assets/images/boxshot.png)
+
+[PixPin](https://pixpin.cn/)：屏幕截图，录制屏幕，长截图，文字识别，贴图等
+
+[OBS](https://obsproject.com/zh-cn)：录屏直播推流软件
+
+<img src="https://free-img.400040.xyz/4/2025/08/19/68a3e3ee1a2e1.png" style="zoom: 25%;" />
+
+[UU远程](https://uuyc.163.com/)：真4K、真免费、真好用的远程控制工具
+
+<img src="https://uuyc.res.netease.com/pc/gw/20241129172408/img/kv_072b7f32.webp" style="zoom: 33%;" />
+
+[vivo办公套件](https://quantumkit.vivo.com/)：连接vivo/iQOO手机平板，无缝协同工具
+
+<img src="https://quantumkit.vivo.com/website/static/img/main-pc.a694ef3e.png" style="zoom: 50%;" />
+
+[Everything](https://www.voidtools.com/)：方便快捷的搜索工具，替代Windows自带搜索
+
+<img src="https://www.voidtools.com/zh-cn/support/everything/Everything.Search.Window.png" style="zoom: 80%;" />
+
+[Rufus](https://rufus.ie/zh/)：快速写盘工具，装系统，制作Windows To Go全靠它
+
+<img src="https://rufus.ie/pics/screenshot1_zh_CN.png" style="zoom: 50%;" />
+
+[balenaEtcher](https://etcher.balena.io/)：还是写盘工具(～￣▽￣)～
+
+<img src="https://img.3dmgame.com/uploads/images/thumbnews/20220519/1652941205_847175.png" style="zoom: 33%;" />
+
+[Typora](https://typora.io/)：Markdown文件编辑器（这网站就是拿这玩意写的(≧∀≦)好用）
+
+[Motrix](https://motrix.app/zh-CN/)：一款全能的下载工具
+
+<img src="https://s.motrix.app/images/screenshot-task-list-downloading-zh@2x.png" style="zoom: 33%;" />
+
+[Cloudflare](https://dash.cloudflare.com/)：网站托管平台
+
+![](https://free-img.400040.xyz/4/2025/08/19/68a3dfd3a573f.png)
+
+[GitHub](https://github.com/)：全球最大开源平台
+
+<img src="https://free-img.400040.xyz/4/2025/08/19/68a3dfd4d9ed3.png" style="zoom: 33%;" />
+
+[魔法师图床](https://tc.mofashi.ltd/)：好评如潮的图床程序，公益免费。用于网页中显示的图片，直接把链接放在Markdown文件里面
+
+![](https://free-img.400040.xyz/4/2025/08/19/68a3e0775fdf5.png)
+
+[FydeOS](https://fydeos.com/)：简洁、流畅、安全的 智能操作系统，类似于Chromium OS的操作系统
+
+![](https://static.itellyou.cn/images/fydeos/pic2.jpg)
+
+[下一站，我告诉你](https://next.itellyou.cn/)：提供一些系统镜像的下载，适用于重装系统
+
+[奶牛快传](https://cowtransfer.com/)：快捷传输文件
+
+<img src="https://free-img.400040.xyz/4/2025/08/19/68a3e45e2ddf4.png" style="zoom:33%;" />
+
+[UOTAN](https://www.uotan.cn/)：一个刷机论坛，提供许多设备的刷机教程与资源
+
+<img src="https://www.uotan.cn/data/assets/logo/12x.png" style="zoom:33%;" />
+
+[Uotan Toolbox](https://toolbox.uotan.cn/)：刷机工具
+
+<img src="https://toolbox.uotan.cn/assets/icon.png" style="zoom: 50%;" />
+
+[Vidhub](https://vidhub1.cc/)：免费观影网站
+
+![](https://vidhub4.cc/mxstatic/image/logo1.png)
+
+[顶级机场](https://xn--mes358a9urctx.com/#/dashboard)：便宜机场\^o^/，懂得都懂
+
+[Greasyfork](https://greasyfork.org/zh-CN)：浏览器油猴插件网站（需要浏览器安装Tampermonkey使用）
+
+<img src="https://free-img.400040.xyz/4/2025/08/19/68a3e379bf7a1.png" style="zoom: 67%;" />
+
 
 
 ### 作者：IKUN_3058

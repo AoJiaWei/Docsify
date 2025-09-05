@@ -2,7 +2,10 @@
 
 IKUN_3058的Docsify网页
 
-![](https://whwechat.oss-cn-hangzhou.aliyuncs.com/upload/bookreadfile/202508/7cae5b6a98fd45e5a2075109d406a2c0.pdf)
+
+```pdf
+	https://whwechat.oss-cn-hangzhou.aliyuncs.com/upload/bookreadfile/202508/7cae5b6a98fd45e5a2075109d406a2c0.pdf
+```
 
 ### 作者：IKUN_3058
 

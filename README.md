@@ -276,94 +276,10 @@ Ctrl+鼠标滚轮/双指手势 缩放
 
 ![img](https://i0.hdslb.com/bfs/new_dyn/d6222e28116805601b3309297c0b1d0a3546773381450643.jpg@1192w.webp)
 
-### MC常用指令
 
-**命令对象**
-
-@p	距离最近的玩家
-
-@r	随机玩家
-
-@a	所有玩家
-
-@e	所有实体
-
-@s	命令的执行者（**自己**）
-
-@n	存活的实体（**在1.21以上使用**）
-
-**常用命令**
-
-F3+F4 切换游戏模式
-
-/gamemode survival 生存模式
-
-/gamemode creative 创造模式
-
-/gamemode adventure 冒险模式
-
-/gamemode spectator 旁观模式
-
-/difficulty peaceful 和平
-
-/difficulty easy 简单
-
-/difficulty normal 普通
-
-/difficulty hard 困难
-
-/gamerule keepInventory true 死亡不掉落指令
-
-/tp 传送实体
-
-/give 玩家名+物品ID+数量  给予玩家物品
-
-/weather  设置天气
-
-/time 更改或查询游戏中的世界时间
-
-/spawnpoint 设置重生点
-
-/effect clear 移除身上所有效果
-
-/clear 清除背包所有物品
-
-/clear 清除玩家物品
-
-/kill 自杀
-
-/list 列出服务器上的玩家
-
-/op 给予玩家管理员权限
-
-/deop 撤销玩家的管理员权限
-
-/help 显示帮助
-
-/setworldspawn 设置出生点
-
-/spawnpoint 设置重生点
-
-/experience 给予玩家经验
-
-**常用特殊方块获取指令**
-
-/give @p command_block 64 获取64个命令方块
-
-/give @p minecraft:barrier 64 获取64个屏障方块
-
-/give @s deny 64 获取64个拒绝方块（**用于阻止非创造模式下的玩家在之上放置方块或破坏方块**）
-
-/give @s allow 64 获取64个拒绝方块（**可以在之上放置方块，同时阻止非创造模式下的玩家破坏方块**）
-
-/give @s border_block 64 获取64个边界方块（**类似于空气墙**）
-
-/give @s structure_block 64 获取64个结构方块（**复制地形使用**）
-
-/give @s light_block 64+所需亮度  光明方块（**隐藏的光源，亮度1-15**） 
 
 ### 作者：IKUN_3058
 
 QQ：3058300936
 
-![](https://free-img.400040.xyz/4/2025/08/18/68a2e35aebb2b.jpg)
+![](https://q.qlogo.cn/headimg_dl?dst_uin=3058300936&spec=640&img_type=jpg)

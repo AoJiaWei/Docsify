@@ -8,13 +8,7 @@ Ctrl+F打开浏览器查找
 
 Ctrl+鼠标滚轮/双指手势 缩放
 
-公告：网页后续停止维护。
-
-答案以图片形式呈现，进网站请多等待一会儿再打开目录翻页，防止因为图片没有完全加载导致目录定位不准确
-
-注意：频繁刷新会封锁IP，10分钟内自动放行IP，期间可能出现无法正常显示图片
-
-其他网站：MoonTV：https://moontv.ikun3058.shop
+其他网站：MoonTV：https://moontv.132486.xyz
 
 (基于[MoonTV](https://github.com/sudizer/moontv)开源项目开源打造的**免费**观影网站)
 

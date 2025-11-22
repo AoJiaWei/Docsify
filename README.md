@@ -294,7 +294,33 @@ Ctrl+鼠标滚轮/双指手势 缩放
 
 ![](https://gitee.com/AoJiaWei/image-hosting/raw/master/%E9%81%93%E6%B3%95/Page_11_docsmall.com.jpg)
 
+### 英语听力训练
 
+![img](https://i0.hdslb.com/bfs/new_dyn/5015ed1c7a8f8ce0416a61f227611fc43546773381450643.jpg@1192w.webp)
+
+![img](https://i0.hdslb.com/bfs/new_dyn/c4f1e7019186cf602fb365376fd2ad0b3546773381450643.jpg@1192w.webp)
+
+![img](https://i0.hdslb.com/bfs/new_dyn/fa4ceb7cce4a30f68ee70a6f6dbb3d2e3546773381450643.jpg@1192w.webp)
+
+![img](https://i0.hdslb.com/bfs/new_dyn/0625f6dac2ff8ca6ca9f42b2b46d91b33546773381450643.jpg@1192w.webp)
+
+![img](https://i0.hdslb.com/bfs/new_dyn/784d672dc556ee10ebe45c47155a22da3546773381450643.jpg@1192w.webp)
+
+### 英语阅读训练
+
+![img](https://i0.hdslb.com/bfs/new_dyn/09c7f4ff71d970918717b0ab2a3621573546773381450643.jpg@1192w.webp)
+
+![img](https://i0.hdslb.com/bfs/new_dyn/8bf7e8d4d831f957f86918c394653dcb3546773381450643.jpg@1192w.webp)
+
+![img](https://i0.hdslb.com/bfs/new_dyn/944cd477180660d2bcbf2724c6e73a0b3546773381450643.jpg@1192w.webp)
+
+![img](https://i0.hdslb.com/bfs/new_dyn/a0d5080d180468e6c30cd67030243f7c3546773381450643.jpg@1192w.webp)
+
+![img](https://i0.hdslb.com/bfs/new_dyn/f0758764e6d8132732d6e3451f1415de3546773381450643.jpg@1192w.webp)
+
+![img](https://i0.hdslb.com/bfs/new_dyn/60e6e6cae58f44447cfbcd50202387a93546773381450643.jpg@1192w.webp)
+
+![img](https://i0.hdslb.com/bfs/new_dyn/d6222e28116805601b3309297c0b1d0a3546773381450643.jpg@1192w.webp)
 
 ### MC常用指令
 

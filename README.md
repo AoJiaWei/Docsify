@@ -2,7 +2,7 @@
 
 IKUN_3058的Docsify网页
 
-左下角<img src="https://gitee.com/AoJiaWei/image-hosting/raw/master/%E7%9B%AE%E5%BD%95%E5%9B%BE%E6%A0%87%E7%A4%BA%E4%BE%8B.png" style="zoom:80%;" />显示/关闭目录
+左下角<img src="https://free-img.400040.xyz/4/2025/12/07/6934d08eb595f.png" style="zoom:80%;" />显示/关闭目录
 
 Ctrl+F打开浏览器查找
 

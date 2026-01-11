@@ -8,7 +8,7 @@
 
 点击图片可以放大
 
-其他网站：MoonTV：[moontv.131124.xyz](https://moontv.131124.xyz)
+其他网站：MoonTV：[https://moontv.131124.xyz](https://moontv.131124.xyz)
 
 (基于[MoonTV](https://github.com/samqin123/MoonTV)开源项目开源打造的**免费**观影网站)
 
